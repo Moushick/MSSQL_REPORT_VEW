@@ -1,0 +1,16 @@
+Date,Time,Operator ID,Shift,Barcode,Description
+14-06-2019,10:23,O2,B,,Abort  Pressed
+18-06-2019,12:53,O2,B,1234,Abort  Pressed
+18-06-2019,15:03,O2,B,1234,Abort  Pressed
+18-06-2019,16:19,O3,C,1234,Abort  Pressed
+18-06-2019,16:25,O3,C,1234,Abort  Pressed
+18-06-2019,16:34,O3,C,1234,Abort  Pressed
+18-06-2019,17:11,O3,C,,Abort  Pressed
+19-06-2019,11:14,O2,B,,Abort  Pressed
+19-06-2019,11:14,O2,B,,Abort  Pressed
+19-06-2019,18:44,O3,C,,Abort  Pressed
+19-06-2019,18:44,O3,C,,Abort  Pressed
+19-06-2019,19:02,O3,C,,Abort  Pressed
+19-06-2019,19:02,O3,C,,Abort  Pressed
+20-06-2019,10:39,O2,B,,Abort  Pressed
+20-06-2019,10:39,O2,B,,Abort  Pressed

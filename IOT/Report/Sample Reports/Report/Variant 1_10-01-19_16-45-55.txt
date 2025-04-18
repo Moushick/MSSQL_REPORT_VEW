@@ -1,0 +1,47 @@
+UUT_SERIAL_NUMBER=1234567890
+UUT_STATUS=PASS
+START_DATE=10/01/2019
+START_TIME=16:45:55
+EXECUTION_TIME=35.67 s
+PRODUCT_NAME=Napino
+VARIANT_NAME=Napino_Variant 1
+PRODUCT_DIVERSITY=
+TEST_BENCH_ID=1070
+TEST_PROGRAM_VERSION=1.0.0.1
+SPECIFICATION=
+TEMPERATURE=
+RH=
+HEAD=
+FREE=
+********************************************************************************
+::::::::::
+1::Power On DUT-2::True;NA::::Pass::633.187
+2::Delay-3s::NA;NA::::Done::3051.119
+3::Ignition Off::False;NA::::Pass::179.477
+4::Current Measurement-1::500.000;0.000::0.000::Pass::972.588
+5::Ignition On::True;NA::::Pass::164.437
+6::Current Measurement-2::500.000;0.000::0.000::Pass::956.545
+7::Delay-3S::NA;NA::::Done::3046.104
+8::Activation::C-Activation;R-Activation::Activated::Pass::221.591
+9::Delay::NA;NA::::Done::2047.446
+10::Default TT::C-042FD00600000000;R-::05	6F	D0	06	00	00	AA	AA::Pass::259.690
+11::Read PCBA Part Number::C-0322F19200000000;R-::07	62	F1	92	01	02	03	04::Pass::312.833
+12::Read ICT Pass Bit::C-0322040100000000;R-::04	62	04	01	09	AA	AA	AA::Pass::308.822
+13::Read Software Version::C-0322F19400000000;R-::06	62	F1	94	31	2E	38	AA::Pass::315.840
+14::Read Hardware Version::C-0322F19300000000;R-::04	62	F1	93	02	AA	AA	AA::Pass::311.831
+15::Read Customer Part Number::C-0322F19300000000;R-::04	62	F1	93	02	AA	AA	AA::Pass::311.831
+16::Measurement Completed::True;NA::::Pass::61.162
+17::Wait for start Vision test::True;NA::::Pass::4629.318
+18::Measurement Completed::False;NA::::Pass::56.149
+19::Vision Test-7s::NA;NA::::Done::7056.777
+20::On Telltale::C-052FD00603010000;R-::05	6F	D0	06	03	01	AA	AA::Pass::254.677
+21::Delay-1s::NA;NA::::Done::1071.853
+22::Capture all Tell tale On::NA;NA::::Pass::1000.659
+23::Verify All Telltales On::1000;900::993::Pass::245.655
+24::Off Telltale::C-052FD00603000000;R-::05	6F	D0	06	03	00	AA	AA::Pass::208.555
+25::Vision Test Completed::True;NA::::Pass::72.192
+26::Normal Test Completed Fix-2::True;NA::::Pass::78.208
+27::Delay7::NA;NA::::Done::7054.771
+28::Vision Test Completed-Off::False;NA::::Pass::69.183
+29::Off Normal Test Completed Fix-2::False;NA::::Pass::70.190
+30::Power Off DUT-2::False;NA::::Pass::652.734

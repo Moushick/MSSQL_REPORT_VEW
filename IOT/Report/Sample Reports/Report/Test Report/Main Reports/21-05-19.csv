@@ -1,0 +1,656 @@
+S.No,Fixture,System,Process ID,Type Code,Type Family,Start No,Test Mode,Test No,Step No,Step Part,Step Name,Upper Limit,Lower Limit,Value,Result,Execution Time,Date,Time
+1,Fixture 1,OP-121,,,,,,1,,,Set Voltage 13v - F1,13.000,13.000,,,,21-05-19,07-32-48
+2,Fixture 1,OP-121,,,,,,2,,,Power on Cluster - F1,True,NA,,,,21-05-19,07-32-48
+3,Fixture 1,OP-121,,,,,,3,,,Verify Current Measurement Status - F1,False,NA,,,,21-05-19,07-32-48
+4,Fixture 1,OP-121,,,,,,4,,,Update Current Measurement Status - F1,True,NA,,,,21-05-19,07-32-48
+5,Fixture 1,OP-121,,,,,,5,,,On Fixture 1 Current Status - F1,True,NA,,,,21-05-19,07-32-48
+6,Fixture 1,OP-121,,,,,,6,,,Turn off Ignition - F1,False,NA,,,,21-05-19,07-32-48
+7,Fixture 1,OP-121,,,,,,7,,,Delay-2s - F1,NA,NA,,,,21-05-19,07-32-48
+8,Fixture 1,OP-121,,,,,,8,,,Measure sleep mode current - F1,100.000,0.000,,,,21-05-19,07-32-48
+9,Fixture 1,OP-121,,,,,,9,,,Turn on Ignition - F1,True,NA,,,,21-05-19,07-32-48
+10,Fixture 1,OP-121,,,,,,10,,,Measure Normal Mode Current - F1,400.000,0.000,,,,21-05-19,07-32-48
+11,Fixture 1,OP-121,,,,,,11,,,Turn on Illumination - F1,True,NA,,,,21-05-19,07-32-48
+12,Fixture 1,OP-121,,,,,,12,,,Illumination ON (AC v)  - F1,True,NA,,,,21-05-19,07-32-48
+13,Fixture 1,OP-121,,,,,,13,,, GND ON (0V) (AC v) - F1,True,NA,,,,21-05-19,07-32-48
+14,Fixture 1,OP-121,,,,,,14,,,Delay-1s - F1,NA,NA,,,,21-05-19,07-32-48
+15,Fixture 1,OP-121,,,,,,15,,,Measure Full load current - F1,400.000,0.000,,,,21-05-19,07-32-48
+16,Fixture 1,OP-121,,,,,,16,,,Turn OFF Illumination - F1,False,NA,,,,21-05-19,07-32-48
+17,Fixture 1,OP-121,,,,,,17,,,Illumination OFF (AC v) - F1,False,NA,,,,21-05-19,07-32-48
+18,Fixture 1,OP-121,,,,,,18,,, GND OFF (0V) (AC v) - F1,False,NA,,,,21-05-19,07-32-48
+19,Fixture 1,OP-121,,,,,,19,,,Off Fixture 1 Current Status - F1,False,NA,,,,21-05-19,07-32-48
+20,Fixture 1,OP-121,,,,,,20,,,Turn on I3S-SW-out - F1,True,NA,,,,21-05-19,07-32-48
+21,Fixture 1,OP-121,,,,,,21,,,Voltage Master ON - F1,True,NA,,,,21-05-19,07-32-48
+22,Fixture 1,OP-121,,,,,,22,,,Voltage Measure ON - F1,True,NA,,,,21-05-19,07-32-48
+23,Fixture 1,OP-121,,,,,,23,,,Press Step Pass Button to continue - F1,True,NA,,,,21-05-19,07-32-48
+24,Fixture 1,OP-121,,,,,,24,,,Measure ON Voltage - F1,13.500,13.000,,,,21-05-19,07-32-48
+25,Fixture 1,OP-121,,,,,,25,,,Press Step Pass Button to continue - F1,True,NA,,,,21-05-19,07-32-48
+26,Fixture 1,OP-121,,,,,,26,,,Measure OFF Voltage - F1,7.500,6.000,,,,21-05-19,07-32-48
+27,Fixture 1,OP-121,,,,,,27,,,Turn OFF I3S-SW-out - F1,False,NA,,,,21-05-19,07-32-48
+28,Fixture 1,OP-121,,,,,,28,,,Voltage Master OFF F1,False,NA,,,,21-05-19,07-32-48
+29,Fixture 1,OP-121,,,,,,29,,,Voltage Measure OFF F1,False,NA,,,,21-05-19,07-32-48
+30,Fixture 1,OP-121,,,,,,30,,,Update Current Measurement Status - F1,False,NA,,,,21-05-19,07-32-48
+31,Fixture 1,OP-121,,,,,,31,,,Turn on K-line - F1,True,NA,,,,21-05-19,07-32-48
+32,Fixture 1,OP-121,,,,,,32,,,Delay-500ms - F1,NA,NA,,,,21-05-19,07-32-48
+33,Fixture 1,OP-121,,,,,,33,,,Read Software Version - F1,C-0A8F,R-5A8F02012E07080419,,,,21-05-19,07-32-48
+34,Fixture 1,OP-121,,,,,,34,,,Delay-500ms - F1,NA,NA,,,,21-05-19,07-32-48
+35,Fixture 1,OP-121,,,,,,35,,,Read PCBA part number - F1,C-233000AE04,R-6387020100,,,,21-05-19,07-32-48
+36,Fixture 1,OP-121,,,,,,36,,,Delay-500ms - F1,NA,NA,,,,21-05-19,07-32-48
+37,Fixture 1,OP-121,,,,,,37,,,Read Cluster part number - F1,C-233000B804,R-6300878600,,,,21-05-19,07-32-48
+38,Fixture 1,OP-121,,,,,,38,,,MESUREMENT TEST COMPLETED - F1,True,NA,,,,21-05-19,07-32-48
+39,Fixture 1,OP-121,,,,,,39,,,Waiting to Rotate 180 degree - F1,True,NA,,,,21-05-19,07-32-48
+40,Fixture 1,OP-121,,,,,,40,,,Delay-2s - F1,NA,NA,,,,21-05-19,07-32-48
+41,Fixture 1,OP-121,,,,,,41,,,Horizontal LCD Segments on - F1,C-A1119494949449494949494900,R-E1 ,,,,21-05-19,07-32-48
+42,Fixture 1,OP-121,,,,,,42,,,Delay-500ms - F1,NA,NA,,,,21-05-19,07-32-48
+43,Fixture 1,OP-121,,,,,,43,,,Capture Horizontal LCD Segment - F1,NA,NA,,,,21-05-19,07-32-48
+44,Fixture 1,OP-121,,,,,,44,,,Vertical LCD Segment on - F1,C-A1116A6A6A6AB6B6B6B6B6A603,R-E1 ,,,,21-05-19,07-32-48
+45,Fixture 1,OP-121,,,,,,45,,,Delay-500ms - F1,NA,NA,,,,21-05-19,07-32-48
+46,Fixture 1,OP-121,,,,,,46,,,Capture Vertical LCD Segments on - F1,NA,NA,,,,21-05-19,07-32-48
+47,Fixture 1,OP-121,,,,,,47,,,All LCD Segments on - F1,C-A111FFFFFFFFFFFFFFFFFFFFFF,R-E1 ,,,,21-05-19,07-32-48
+48,Fixture 1,OP-121,,,,,,48,,,Delay-500ms - F1,NA,NA,,,,21-05-19,07-32-48
+49,Fixture 1,OP-121,,,,,,49,,,Capture all LCD Segments on - F1,NA,NA,,,,21-05-19,07-32-48
+50,Fixture 1,OP-121,,,,,,50,,,Delay-300ms - F1,NA,NA,,,,21-05-19,07-32-48
+51,Fixture 1,OP-121,,,,,,51,,,Initialise LCD - F1,C-A1110000000000000000000000,R-E111,,,,21-05-19,07-32-48
+52,Fixture 1,OP-121,,,,,,52,,,Turn Left TT on - F1,True,NA,,,,21-05-19,07-32-48
+53,Fixture 1,OP-121,,,,,,53,,,Delay-500ms - F1,NA,NA,,,,21-05-19,07-32-48
+54,Fixture 1,OP-121,,,,,,54,,,Capture Turn Left TT on - F1,NA,NA,,,,21-05-19,07-32-48
+55,Fixture 1,OP-121,,,,,,55,,,Turn Left TT off - F1,False,NA,,,,21-05-19,07-32-48
+56,Fixture 1,OP-121,,,,,,56,,,Turn right TT on - F1,True,NA,,,,21-05-19,07-32-48
+57,Fixture 1,OP-121,,,,,,57,,,Delay-300ms - F1,NA,NA,,,,21-05-19,07-32-48
+58,Fixture 1,OP-121,,,,,,58,,,Capture Turn right TT on - F1,NA,NA,,,,21-05-19,07-32-48
+59,Fixture 1,OP-121,,,,,,59,,,Turn right TT off - F1,False,NA,,,,21-05-19,07-32-48
+60,Fixture 1,OP-121,,,,,,60,,,Turn on Hardwired TT - F1,True,NA,,,,21-05-19,07-32-48
+61,Fixture 1,OP-121,,,,,,61,,,Delay-300ms - F1,NA,NA,,,,21-05-19,07-32-48
+62,Fixture 1,OP-121,,,,,,62,,,Capture Hardwired TT on - F1,NA,NA,,,,21-05-19,07-32-48
+63,Fixture 1,OP-121,,,,,,63,,,Turn off hardwired TT - F1,False,NA,,,,21-05-19,07-32-48
+64,Fixture 1,OP-121,,,,,,64,,,Delay-300ms - F1,NA,NA,,,,21-05-19,07-32-48
+65,Fixture 1,OP-121,,,,,,65,,,Capture Hardwired TT off - F1,NA,NA,,,,21-05-19,07-32-48
+66,Fixture 1,OP-121,,,,,,66,,,High Beam (AC v) ON - F1,True,NA,,,,21-05-19,07-32-48
+67,Fixture 1,OP-121,,,,,,67,,,GND (0V) (AC v) ON - F1,True,NA,,,,21-05-19,07-32-48
+68,Fixture 1,OP-121,,,,,,68,,,Delay-300ms - F1,NA,NA,,,,21-05-19,07-32-48
+69,Fixture 1,OP-121,,,,,,69,,,Capture High Beam ON (AC) - F1,NA,NA,,,,21-05-19,07-32-48
+70,Fixture 1,OP-121,,,,,,70,,,High Beam (AC v) OFF - F1,False,NA,,,,21-05-19,07-32-48
+71,Fixture 1,OP-121,,,,,,71,,,GND (AC v) OFF - F1,False,NA,,,,21-05-19,07-32-48
+72,Fixture 1,OP-121,,,,,,72,,,Illumination ON - F1,True,NA,,,,21-05-19,07-32-48
+73,Fixture 1,OP-121,,,,,,73,,,Illumination ON (AC v) - F1,True,NA,,,,21-05-19,07-32-48
+74,Fixture 1,OP-121,,,,,,74,,,GND ON (AC v) - F1,True,NA,,,,21-05-19,07-32-48
+75,Fixture 1,OP-121,,,,,,75,,,Turn on Speed input - F1,True,NA,,,,21-05-19,07-32-48
+76,Fixture 1,OP-121,,,,,,76,,,Speed 60 kmph - F1,866.000,866.000,,,,21-05-19,07-32-48
+77,Fixture 1,OP-121,,,,,,77,,,Delay-300ms - F1,NA,NA,,,,21-05-19,07-32-48
+78,Fixture 1,OP-121,,,,,,78,,,Capture Speed 60kmph - F1,NA,NA,,,,21-05-19,07-32-48
+79,Fixture 1,OP-121,,,,,,79,,,Speed 100 kmph - F1,1443.000,1443.000,,,,21-05-19,07-32-48
+80,Fixture 1,OP-121,,,,,,80,,,Delay-300ms - F1,NA,NA,,,,21-05-19,07-32-48
+81,Fixture 1,OP-121,,,,,,81,,,Capture Speed 100kmph - F1,NA,NA,,,,21-05-19,07-32-48
+82,Fixture 1,OP-121,,,,,,82,,,Illumination OFF - F1,False,NA,,,,21-05-19,07-32-48
+83,Fixture 1,OP-121,,,,,,83,,,Illumination OFF (AC v) - F1,False,NA,,,,21-05-19,07-32-48
+84,Fixture 1,OP-121,,,,,,84,,,GND OFF (AC v) - F1,False,NA,,,,21-05-19,07-32-48
+85,Fixture 1,OP-121,,,,,,85,,,Switch OFF Speedo Gauge - F1,0.000,0.000,,,,21-05-19,07-32-48
+86,Fixture 1,OP-121,,,,,,86,,,Turn off Speedo input - F1,False,NA,,,,21-05-19,07-32-48
+87,Fixture 1,OP-121,,,,,,87,,,Turn on Fuel input - F1,True,NA,,,,21-05-19,07-32-48
+88,Fixture 1,OP-121,,,,,,88,,,Turn on Fuel 6 bar - F1,True,NA,,,,21-05-19,07-32-48
+89,Fixture 1,OP-121,,,,,,89,,,Restart the Cluster - F1,False,NA,,,,21-05-19,07-32-48
+90,Fixture 1,OP-121,,,,,,90,,,Delay-1s - F1,NA,NA,,,,21-05-19,07-32-48
+91,Fixture 1,OP-121,,,,,,91,,,Capture Fuel 6 bar - F1,NA,NA,,,,21-05-19,07-32-48
+92,Fixture 1,OP-121,,,,,,92,,,Turn off Fuel 6 bar - F1,False,NA,,,,21-05-19,07-32-48
+93,Fixture 1,OP-121,,,,,,93,,,Turn on Fuel 3 bar - F1,True,NA,,,,21-05-19,07-32-48
+94,Fixture 1,OP-121,,,,,,94,,,Restart the Cluster - F1,False,NA,,,,21-05-19,07-32-48
+95,Fixture 1,OP-121,,,,,,95,,,Delay-1s - F1,NA,NA,,,,21-05-19,07-32-48
+96,Fixture 1,OP-121,,,,,,96,,,Capture Fuel 3 bar - F1,NA,NA,,,,21-05-19,07-32-48
+97,Fixture 1,OP-121,,,,,,97,,,Turn off Fuel 3 bar - F1,False,NA,,,,21-05-19,07-32-48
+98,Fixture 1,OP-121,,,,,,98,,,Turn on Fuel 1 bar - F1,True,NA,,,,21-05-19,07-32-48
+99,Fixture 1,OP-121,,,,,,99,,,Restart the Cluster - F1,False,NA,,,,21-05-19,07-32-48
+100,Fixture 1,OP-121,,,,,,100,,,Delay-1s - F1,NA,NA,,,,21-05-19,07-32-48
+101,Fixture 1,OP-121,,,,,,101,,,Capture Fuel 1 bar - F1,NA,NA,,,,21-05-19,07-32-48
+102,Fixture 1,OP-121,,,,,,102,,,Turn off Fuel 1 bar - F1,False,NA,,,,21-05-19,07-32-48
+103,Fixture 1,OP-121,,,,,,103,,,Fuel-Input OFF Fix1 - F1,False,NA,,,,21-05-19,07-32-48
+104,Fixture 1,OP-121,,,,,,104,,,Reset odometer - F1,C-A113,R-E113,,,,21-05-19,07-32-48
+105,Fixture 1,OP-121,,,,,,105,,,Delay-300ms - F1,NA,NA,,,,21-05-19,07-32-48
+106,Fixture 1,OP-121,,,,,,106,,,Capture reset odometer - F1,NA,NA,,,,21-05-19,07-32-48
+107,Fixture 1,OP-121,,,,,,107,,,Power off cluster - F1,False,NA,,,,21-05-19,07-32-48
+108,Fixture 1,OP-121,,,,,,108,,,VISION TEST COMPLETED - F1,True,NA,,,,21-05-19,07-32-48
+1,Fixture 2,OP-121,,,,,,1,,,Set Voltage 13v - F2,13.000,13.000,,,,21-05-19,07-32-52
+2,Fixture 2,OP-121,,,,,,2,,,Power on Cluster - F2,True,NA,,,,21-05-19,07-32-52
+3,Fixture 2,OP-121,,,,,,3,,,Verify Current Measurement Status - F2,False,NA,,,,21-05-19,07-32-52
+4,Fixture 2,OP-121,,,,,,4,,,Update Current Measurement Status - F2,True,NA,,,,21-05-19,07-32-52
+5,Fixture 2,OP-121,,,,,,5,,,On Fixture 2 Current Status - F2,True,NA,,,,21-05-19,07-32-52
+6,Fixture 2,OP-121,,,,,,6,,,Turn off Ignition - F2,False,NA,,,,21-05-19,07-32-52
+7,Fixture 2,OP-121,,,,,,7,,,Delay-2s - F2,NA,NA,,,,21-05-19,07-32-52
+8,Fixture 2,OP-121,,,,,,8,,,Measure sleep mode current  - F2,100.000,0.000,,,,21-05-19,07-32-52
+9,Fixture 2,OP-121,,,,,,9,,,Turn on Ignition - F2,True,NA,,,,21-05-19,07-32-52
+10,Fixture 2,OP-121,,,,,,10,,,Measure Normal Mode Current - F2,400.000,0.000,,,,21-05-19,07-32-52
+11,Fixture 2,OP-121,,,,,,11,,,Turn on Illumination - F2,True,NA,,,,21-05-19,07-32-52
+12,Fixture 2,OP-121,,,,,,12,,,Illumination ON (AC v) - F2,True,NA,,,,21-05-19,07-32-52
+13,Fixture 2,OP-121,,,,,,13,,,GND (0V) (AC v) - F2,True,NA,,,,21-05-19,07-32-52
+14,Fixture 2,OP-121,,,,,,14,,,Delay-1s,NA,NA,,,,21-05-19,07-32-52
+15,Fixture 2,OP-121,,,,,,15,,,Measure Full load current - F2,400.000,0.000,,,,21-05-19,07-32-52
+16,Fixture 2,OP-121,,,,,,16,,,Turn OFF Illumination - F2,False,NA,,,,21-05-19,07-32-52
+17,Fixture 2,OP-121,,,,,,17,,,Illumination OFF (AC v) - F2,False,NA,,,,21-05-19,07-32-52
+18,Fixture 2,OP-121,,,,,,18,,,GND OFF (0V) (AC v) - F2,False,NA,,,,21-05-19,07-32-52
+19,Fixture 2,OP-121,,,,,,19,,,Off Fixture 2 Current Status - F2,False,NA,,,,21-05-19,07-32-52
+20,Fixture 2,OP-121,,,,,,20,,,Turn on I3S-SW-out - F2,True,NA,,,,21-05-19,07-32-52
+21,Fixture 2,OP-121,,,,,,21,,,Voltage Master ON - F2,True,NA,,,,21-05-19,07-32-52
+22,Fixture 2,OP-121,,,,,,22,,,Voltage Measure ON - F2,True,NA,,,,21-05-19,07-32-52
+23,Fixture 2,OP-121,,,,,,23,,,Press Step Pass Button to continue - F2,True,NA,,,,21-05-19,07-32-52
+24,Fixture 2,OP-121,,,,,,24,,,Measure ON Voltage - F2,13.500,13.000,,,,21-05-19,07-32-52
+25,Fixture 2,OP-121,,,,,,25,,,Press Step Pass Button to continue - F2,True,NA,,,,21-05-19,07-32-52
+26,Fixture 2,OP-121,,,,,,26,,,Measure OFF Voltage F2,7.500,6.000,,,,21-05-19,07-32-52
+27,Fixture 2,OP-121,,,,,,27,,,Turn OFF I3S-SW-out - F2,False,NA,,,,21-05-19,07-32-52
+28,Fixture 2,OP-121,,,,,,28,,,Voltage Master OFF F2,False,NA,,,,21-05-19,07-32-52
+29,Fixture 2,OP-121,,,,,,29,,,Voltage Measure OFF F2,False,NA,,,,21-05-19,07-32-52
+30,Fixture 2,OP-121,,,,,,30,,,Update Current Measurement Status - F2,False,NA,,,,21-05-19,07-32-52
+31,Fixture 2,OP-121,,,,,,31,,,Turn on K-line - F2,True,NA,,,,21-05-19,07-32-52
+32,Fixture 2,OP-121,,,,,,32,,,Delay-500ms,NA,NA,,,,21-05-19,07-32-52
+33,Fixture 2,OP-121,,,,,,33,,,Read Software Version - F2,C-1A8F,R-5A8F02012E07080419,,,,21-05-19,07-32-52
+34,Fixture 2,OP-121,,,,,,34,,,Delay-500ms,NA,NA,,,,21-05-19,07-32-52
+35,Fixture 2,OP-121,,,,,,35,,,Read PCBA part number - F2,C-233000AE04,R-6387020100,,,,21-05-19,07-32-52
+36,Fixture 2,OP-121,,,,,,36,,,Delay-500ms,NA,NA,,,,21-05-19,07-32-52
+37,Fixture 2,OP-121,,,,,,37,,,Read Cluster part number - F2,C-233000B804,R-6300878600,,,,21-05-19,07-32-52
+38,Fixture 2,OP-121,,,,,,38,,,MESUREMENT TEST COMPLETED - F2,True,NA,,,,21-05-19,07-32-52
+39,Fixture 2,OP-121,,,,,,39,,,Waiting to Rotate 180 degree  - F2,True,NA,,,,21-05-19,07-32-52
+40,Fixture 2,OP-121,,,,,,40,,,Delay-2s,NA,NA,,,,21-05-19,07-32-52
+41,Fixture 2,OP-121,,,,,,41,,,Horizontal LCD Segments on - F2,C-A1119494949449494949494900,R-E1 ,,,,21-05-19,07-32-52
+42,Fixture 2,OP-121,,,,,,42,,,Delay-500ms,NA,NA,,,,21-05-19,07-32-52
+43,Fixture 2,OP-121,,,,,,43,,,Capture Horizontal LCD Segment - F2,NA,NA,,,,21-05-19,07-32-52
+44,Fixture 2,OP-121,,,,,,44,,,Vertical LCD Segment on - F2,C-A1116A6A6A6AB6B6B6B6B6A603,R-E1 ,,,,21-05-19,07-32-52
+45,Fixture 2,OP-121,,,,,,45,,,Delay-500ms,NA,NA,,,,21-05-19,07-32-52
+46,Fixture 2,OP-121,,,,,,46,,,Capture Vertical LCD Segments on - F2,NA,NA,,,,21-05-19,07-32-52
+47,Fixture 2,OP-121,,,,,,47,,,All LCD Segments on - F2,C-A111FFFFFFFFFFFFFFFFFFFFFF,R-E1 ,,,,21-05-19,07-32-52
+48,Fixture 2,OP-121,,,,,,48,,,Delay-500ms,NA,NA,,,,21-05-19,07-32-52
+49,Fixture 2,OP-121,,,,,,49,,,Capture all LCD Segments on - F2,NA,NA,,,,21-05-19,07-32-52
+50,Fixture 2,OP-121,,,,,,50,,,Delay-500ms,NA,NA,,,,21-05-19,07-32-52
+51,Fixture 2,OP-121,,,,,,51,,,Initialise LCD  - F2,C-A1110000000000000000000000,R-E111,,,,21-05-19,07-32-52
+52,Fixture 2,OP-121,,,,,,52,,,Turn Left TT on - F2,True,NA,,,,21-05-19,07-32-52
+53,Fixture 2,OP-121,,,,,,53,,,Delay-500ms,NA,NA,,,,21-05-19,07-32-52
+54,Fixture 2,OP-121,,,,,,54,,,Capture Turn Left TT on - F2,NA,NA,,,,21-05-19,07-32-52
+55,Fixture 2,OP-121,,,,,,55,,,Turn Left TT off - F2,False,NA,,,,21-05-19,07-32-52
+56,Fixture 2,OP-121,,,,,,56,,,Turn right TT on - F2,True,NA,,,,21-05-19,07-32-52
+57,Fixture 2,OP-121,,,,,,57,,,Delay-300ms,NA,NA,,,,21-05-19,07-32-52
+58,Fixture 2,OP-121,,,,,,58,,,Capture Turn right TT on - F2,NA,NA,,,,21-05-19,07-32-52
+59,Fixture 2,OP-121,,,,,,59,,,Turn right TT off - F2,False,NA,,,,21-05-19,07-32-52
+60,Fixture 2,OP-121,,,,,,60,,,Turn on Hardwired TT - F2,True,NA,,,,21-05-19,07-32-52
+61,Fixture 2,OP-121,,,,,,61,,,Delay-300ms,NA,NA,,,,21-05-19,07-32-52
+62,Fixture 2,OP-121,,,,,,62,,,Capture Hardwired TT on - F2,NA,NA,,,,21-05-19,07-32-52
+63,Fixture 2,OP-121,,,,,,63,,,Turn off hardwired TT - F2,False,NA,,,,21-05-19,07-32-52
+64,Fixture 2,OP-121,,,,,,64,,,Delay-300ms,NA,NA,,,,21-05-19,07-32-52
+65,Fixture 2,OP-121,,,,,,65,,,Capture Hardwired TT off - F2,NA,NA,,,,21-05-19,07-32-52
+66,Fixture 2,OP-121,,,,,,66,,,High Beam ON (AC v) - F2,True,NA,,,,21-05-19,07-32-52
+67,Fixture 2,OP-121,,,,,,67,,,GND ON (0V) (AC v) - F2,True,NA,,,,21-05-19,07-32-52
+68,Fixture 2,OP-121,,,,,,68,,,Delay-300ms,NA,NA,,,,21-05-19,07-32-52
+69,Fixture 2,OP-121,,,,,,69,,,Capture High Beam ON - F2,NA,NA,,,,21-05-19,07-32-52
+70,Fixture 2,OP-121,,,,,,70,,,High Beam OFF (AC v) - F2,False,NA,,,,21-05-19,07-32-52
+71,Fixture 2,OP-121,,,,,,71,,,GND OFF (AC v) - F2,False,NA,,,,21-05-19,07-32-52
+72,Fixture 2,OP-121,,,,,,72,,,Illumination ON - F2,True,NA,,,,21-05-19,07-32-52
+73,Fixture 2,OP-121,,,,,,73,,,Illumination ON (AC v) - F2,True,NA,,,,21-05-19,07-32-52
+74,Fixture 2,OP-121,,,,,,74,,,GND ON (AC v) - F2,True,NA,,,,21-05-19,07-32-52
+75,Fixture 2,OP-121,,,,,,75,,,Turn on Speed input - F2,True,NA,,,,21-05-19,07-32-52
+76,Fixture 2,OP-121,,,,,,76,,,Speed 60kmph - F2,866.000,866.000,,,,21-05-19,07-32-52
+77,Fixture 2,OP-121,,,,,,77,,,Delay-300ms,NA,NA,,,,21-05-19,07-32-52
+78,Fixture 2,OP-121,,,,,,78,,,Capture Speed 60kmph - F2,NA,NA,,,,21-05-19,07-32-52
+79,Fixture 2,OP-121,,,,,,79,,,Speed 100 kmph - F2,1443.000,1443.000,,,,21-05-19,07-32-52
+80,Fixture 2,OP-121,,,,,,80,,,Delay-300ms,NA,NA,,,,21-05-19,07-32-52
+81,Fixture 2,OP-121,,,,,,81,,,Capture Speed 100kmph - F2,NA,NA,,,,21-05-19,07-32-52
+82,Fixture 2,OP-121,,,,,,82,,,Illumination off - F2,False,NA,,,,21-05-19,07-32-52
+83,Fixture 2,OP-121,,,,,,83,,,Illumination OFF (AC v) - F2,False,NA,,,,21-05-19,07-32-52
+84,Fixture 2,OP-121,,,,,,84,,,GND OFF (AC v) - F2,False,NA,,,,21-05-19,07-32-52
+85,Fixture 2,OP-121,,,,,,85,,,Turn off Speedo input - F2,False,NA,,,,21-05-19,07-32-52
+86,Fixture 2,OP-121,,,,,,86,,,Reset Speedo Gauge - F2,0.000,0.000,,,,21-05-19,07-32-52
+87,Fixture 2,OP-121,,,,,,87,,,Turn on Fuel input - F2,True,NA,,,,21-05-19,07-32-52
+88,Fixture 2,OP-121,,,,,,88,,,Turn on Fuel 6 bar - F2,True,NA,,,,21-05-19,07-32-52
+89,Fixture 2,OP-121,,,,,,89,,,Restart the Cluster - F2,False,NA,,,,21-05-19,07-32-52
+90,Fixture 2,OP-121,,,,,,90,,,Delay-1s,NA,NA,,,,21-05-19,07-32-52
+91,Fixture 2,OP-121,,,,,,91,,,Capture Fuel 6 bar - F2,NA,NA,,,,21-05-19,07-32-52
+92,Fixture 2,OP-121,,,,,,92,,,Turn off Fuel 6 bar - F2,False,NA,,,,21-05-19,07-32-52
+93,Fixture 2,OP-121,,,,,,93,,,Turn on Fuel 3 bar - F2,True,NA,,,,21-05-19,07-32-52
+94,Fixture 2,OP-121,,,,,,94,,,Restart the Cluster - F2,False,NA,,,,21-05-19,07-32-52
+95,Fixture 2,OP-121,,,,,,95,,,Delay-1s,NA,NA,,,,21-05-19,07-32-52
+96,Fixture 2,OP-121,,,,,,96,,,Capture Fuel 3 bar - F2,NA,NA,,,,21-05-19,07-32-52
+97,Fixture 2,OP-121,,,,,,97,,,Turn off Fuel 3 bar - F2,False,NA,,,,21-05-19,07-32-52
+98,Fixture 2,OP-121,,,,,,98,,,Turn on Fuel 1 bar - F2,True,NA,,,,21-05-19,07-32-52
+99,Fixture 2,OP-121,,,,,,99,,,Restart the Cluster - F2,False,NA,,,,21-05-19,07-32-52
+100,Fixture 2,OP-121,,,,,,100,,,Delay-1s,NA,NA,,,,21-05-19,07-32-52
+101,Fixture 2,OP-121,,,,,,101,,,Capture Fuel 1 bar - F2,NA,NA,,,,21-05-19,07-32-52
+102,Fixture 2,OP-121,,,,,,102,,,Turn off Fuel 1 bar - F2,False,NA,,,,21-05-19,07-32-52
+103,Fixture 2,OP-121,,,,,,103,,,Fuel-Input OFF - F2,False,NA,,,,21-05-19,07-32-52
+104,Fixture 2,OP-121,,,,,,104,,,Reset odometer - F2,C-A113,R-E113,,,,21-05-19,07-32-52
+105,Fixture 2,OP-121,,,,,,105,,,Delay-300ms,NA,NA,,,,21-05-19,07-32-52
+106,Fixture 2,OP-121,,,,,,106,,,Capture reset odometer - F2,NA,NA,,,,21-05-19,07-32-52
+107,Fixture 2,OP-121,,,,,,107,,,Power off cluster - F2,False,NA,,,,21-05-19,07-32-52
+108,Fixture 2,OP-121,,,,,,108,,,VISION TEST COMPLETED FIX 2,True,NA,,,,21-05-19,07-32-52
+1,Fixture 2,OP-121,,,,,,1,,,Set Voltage 13v - F2,13.000,13.000,13.000,Pass,,21-05-19,07-38-39
+2,Fixture 2,OP-121,,,,,,2,,,Power on Cluster - F2,True,NA,,Pass,,21-05-19,07-38-39
+3,Fixture 2,OP-121,,,,,,3,,,Verify Current Measurement Status - F2,False,NA,,Pass,,21-05-19,07-38-39
+4,Fixture 2,OP-121,,,,,,4,,,Update Current Measurement Status - F2,True,NA,,Pass,,21-05-19,07-38-39
+5,Fixture 2,OP-121,,,,,,5,,,On Fixture 2 Current Status - F2,True,NA,,Pass,,21-05-19,07-38-39
+6,Fixture 2,OP-121,,,,,,6,,,Turn off Ignition - F2,False,NA,,Pass,,21-05-19,07-38-39
+7,Fixture 2,OP-121,,,,,,7,,,Delay-2s - F2,NA,NA,,Done,,21-05-19,07-38-39
+8,Fixture 2,OP-121,,,,,,8,,,Measure sleep mode current  - F2,100.000,0.000,0.121,Pass,,21-05-19,07-38-39
+9,Fixture 2,OP-121,,,,,,9,,,Turn on Ignition - F2,True,NA,,Pass,,21-05-19,07-38-39
+10,Fixture 2,OP-121,,,,,,10,,,Measure Normal Mode Current - F2,400.000,0.000,69.767,Pass,,21-05-19,07-38-39
+11,Fixture 2,OP-121,,,,,,11,,,Turn on Illumination - F2,True,NA,,Pass,,21-05-19,07-38-39
+12,Fixture 2,OP-121,,,,,,12,,,Illumination ON (AC v) - F2,True,NA,,Pass,,21-05-19,07-38-39
+13,Fixture 2,OP-121,,,,,,13,,,GND (0V) (AC v) - F2,True,NA,,Pass,,21-05-19,07-38-39
+14,Fixture 2,OP-121,,,,,,14,,,Delay-1s,NA,NA,,Done,,21-05-19,07-38-39
+15,Fixture 2,OP-121,,,,,,15,,,Measure Full load current - F2,400.000,0.000,146.413,Pass,,21-05-19,07-38-39
+16,Fixture 2,OP-121,,,,,,16,,,Turn OFF Illumination - F2,False,NA,,Pass,,21-05-19,07-38-39
+17,Fixture 2,OP-121,,,,,,17,,,Illumination OFF (AC v) - F2,False,NA,,Pass,,21-05-19,07-38-39
+18,Fixture 2,OP-121,,,,,,18,,,GND OFF (0V) (AC v) - F2,False,NA,,Pass,,21-05-19,07-38-39
+19,Fixture 2,OP-121,,,,,,19,,,Off Fixture 2 Current Status - F2,False,NA,,Pass,,21-05-19,07-38-39
+20,Fixture 2,OP-121,,,,,,20,,,Turn on I3S-SW-out - F2,True,NA,,Pass,,21-05-19,07-38-39
+21,Fixture 2,OP-121,,,,,,21,,,Voltage Master ON - F2,True,NA,,Pass,,21-05-19,07-38-39
+22,Fixture 2,OP-121,,,,,,22,,,Voltage Measure ON - F2,True,NA,,Pass,,21-05-19,07-38-39
+23,Fixture 2,OP-121,,,,,,23,,,Press Step Pass Button to continue - F2,True,NA,,Pass,,21-05-19,07-38-39
+24,Fixture 2,OP-121,,,,,,24,,,Measure ON Voltage - F2,13.500,13.000,13.446,Pass,,21-05-19,07-38-39
+25,Fixture 2,OP-121,,,,,,25,,,Press Step Pass Button to continue - F2,True,NA,,Pass,,21-05-19,07-38-39
+26,Fixture 2,OP-121,,,,,,26,,,Measure OFF Voltage F2,7.500,6.000,7.135,Pass,,21-05-19,07-38-39
+27,Fixture 2,OP-121,,,,,,27,,,Turn OFF I3S-SW-out - F2,False,NA,,Pass,,21-05-19,07-38-39
+28,Fixture 2,OP-121,,,,,,28,,,Voltage Master OFF F2,False,NA,,Pass,,21-05-19,07-38-39
+29,Fixture 2,OP-121,,,,,,29,,,Voltage Measure OFF F2,False,NA,,Pass,,21-05-19,07-38-39
+30,Fixture 2,OP-121,,,,,,30,,,Update Current Measurement Status - F2,False,NA,,Pass,,21-05-19,07-38-39
+31,Fixture 2,OP-121,,,,,,31,,,Turn on K-line - F2,True,NA,,Pass,,21-05-19,07-38-39
+32,Fixture 2,OP-121,,,,,,32,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-38-39
+33,Fixture 2,OP-121,,,,,,33,,,Read Software Version - F2,C-1A8F,R-5A8F02012E07080419,5A8F02012E07080419,Pass,,21-05-19,07-38-39
+34,Fixture 2,OP-121,,,,,,34,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-38-39
+35,Fixture 2,OP-121,,,,,,35,,,Read PCBA part number - F2,C-233000AE04,R-6387020100,6387020100,Pass,,21-05-19,07-38-39
+36,Fixture 2,OP-121,,,,,,36,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-38-39
+37,Fixture 2,OP-121,,,,,,37,,,Read Cluster part number - F2,C-233000B804,R-6300878600,6300878600,Pass,,21-05-19,07-38-39
+38,Fixture 2,OP-121,,,,,,38,,,MESUREMENT TEST COMPLETED - F2,True,NA,,Pass,,21-05-19,07-38-39
+39,Fixture 2,OP-121,,,,,,39,,,Waiting to Rotate 180 degree  - F2,True,NA,,Pass,,21-05-19,07-38-39
+40,Fixture 2,OP-121,,,,,,40,,,Delay-2s,NA,NA,,Done,,21-05-19,07-38-39
+41,Fixture 2,OP-121,,,,,,41,,,Horizontal LCD Segments on - F2,C-A1119494949449494949494900,R-E1 ,E1,Pass,,21-05-19,07-38-39
+42,Fixture 2,OP-121,,,,,,42,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-38-39
+43,Fixture 2,OP-121,,,,,,43,,,Capture Horizontal LCD Segment - F2,NA,NA,,Pass,,21-05-19,07-38-39
+44,Fixture 2,OP-121,,,,,,44,,,Vertical LCD Segment on - F2,C-A1116A6A6A6AB6B6B6B6B6A603,R-E1 ,E1,Pass,,21-05-19,07-38-39
+45,Fixture 2,OP-121,,,,,,45,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-38-39
+46,Fixture 2,OP-121,,,,,,46,,,Capture Vertical LCD Segments on - F2,NA,NA,,Pass,,21-05-19,07-38-39
+47,Fixture 2,OP-121,,,,,,47,,,All LCD Segments on - F2,C-A111FFFFFFFFFFFFFFFFFFFFFF,R-E1 ,E1,Pass,,21-05-19,07-38-39
+48,Fixture 2,OP-121,,,,,,48,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-38-39
+49,Fixture 2,OP-121,,,,,,49,,,Capture all LCD Segments on - F2,NA,NA,,Pass,,21-05-19,07-38-39
+50,Fixture 2,OP-121,,,,,,50,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-38-39
+51,Fixture 2,OP-121,,,,,,51,,,Initialise LCD  - F2,C-A1110000000000000000000000,R-E111,E111,Pass,,21-05-19,07-38-39
+52,Fixture 2,OP-121,,,,,,52,,,Turn Left TT on - F2,True,NA,,Pass,,21-05-19,07-38-39
+53,Fixture 2,OP-121,,,,,,53,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-38-39
+54,Fixture 2,OP-121,,,,,,54,,,Capture Turn Left TT on - F2,NA,NA,,Pass,,21-05-19,07-38-39
+55,Fixture 2,OP-121,,,,,,55,,,Turn Left TT off - F2,False,NA,,Pass,,21-05-19,07-38-39
+56,Fixture 2,OP-121,,,,,,56,,,Turn right TT on - F2,True,NA,,Pass,,21-05-19,07-38-39
+57,Fixture 2,OP-121,,,,,,57,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-38-39
+58,Fixture 2,OP-121,,,,,,58,,,Capture Turn right TT on - F2,NA,NA,,Pass,,21-05-19,07-38-39
+59,Fixture 2,OP-121,,,,,,59,,,Turn right TT off - F2,False,NA,,Pass,,21-05-19,07-38-39
+60,Fixture 2,OP-121,,,,,,60,,,Turn on Hardwired TT - F2,True,NA,,Pass,,21-05-19,07-38-39
+61,Fixture 2,OP-121,,,,,,61,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-38-39
+62,Fixture 2,OP-121,,,,,,62,,,Capture Hardwired TT on - F2,NA,NA,,Pass,,21-05-19,07-38-39
+63,Fixture 2,OP-121,,,,,,63,,,Turn off hardwired TT - F2,False,NA,,Pass,,21-05-19,07-38-39
+64,Fixture 2,OP-121,,,,,,64,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-38-39
+65,Fixture 2,OP-121,,,,,,65,,,Capture Hardwired TT off - F2,NA,NA,,Pass,,21-05-19,07-38-39
+66,Fixture 2,OP-121,,,,,,66,,,High Beam ON (AC v) - F2,True,NA,,Pass,,21-05-19,07-38-39
+67,Fixture 2,OP-121,,,,,,67,,,GND ON (0V) (AC v) - F2,True,NA,,Pass,,21-05-19,07-38-39
+68,Fixture 2,OP-121,,,,,,68,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-38-39
+69,Fixture 2,OP-121,,,,,,69,,,Capture High Beam ON - F2,NA,NA,,Pass,,21-05-19,07-38-39
+70,Fixture 2,OP-121,,,,,,70,,,High Beam OFF (AC v) - F2,False,NA,,Pass,,21-05-19,07-38-39
+71,Fixture 2,OP-121,,,,,,71,,,GND OFF (AC v) - F2,False,NA,,Pass,,21-05-19,07-38-39
+72,Fixture 2,OP-121,,,,,,72,,,Illumination ON - F2,True,NA,,Pass,,21-05-19,07-38-39
+73,Fixture 2,OP-121,,,,,,73,,,Illumination ON (AC v) - F2,True,NA,,Pass,,21-05-19,07-38-39
+74,Fixture 2,OP-121,,,,,,74,,,GND ON (AC v) - F2,True,NA,,Pass,,21-05-19,07-38-39
+75,Fixture 2,OP-121,,,,,,75,,,Turn on Speed input - F2,True,NA,,Pass,,21-05-19,07-38-39
+76,Fixture 2,OP-121,,,,,,76,,,Speed 60kmph - F2,866.000,866.000,866.000,Pass,,21-05-19,07-38-39
+77,Fixture 2,OP-121,,,,,,77,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-38-39
+78,Fixture 2,OP-121,,,,,,78,,,Capture Speed 60kmph - F2,NA,NA,,Pass,,21-05-19,07-38-39
+79,Fixture 2,OP-121,,,,,,79,,,Speed 100 kmph - F2,1443.000,1443.000,1443.000,Pass,,21-05-19,07-38-39
+80,Fixture 2,OP-121,,,,,,80,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-38-39
+81,Fixture 2,OP-121,,,,,,81,,,Capture Speed 100kmph - F2,NA,NA,,Pass,,21-05-19,07-38-39
+82,Fixture 2,OP-121,,,,,,82,,,Illumination off - F2,False,NA,,Pass,,21-05-19,07-38-39
+83,Fixture 2,OP-121,,,,,,83,,,Illumination OFF (AC v) - F2,False,NA,,Pass,,21-05-19,07-38-39
+84,Fixture 2,OP-121,,,,,,84,,,GND OFF (AC v) - F2,False,NA,,Pass,,21-05-19,07-38-39
+85,Fixture 2,OP-121,,,,,,85,,,Turn off Speedo input - F2,False,NA,,Pass,,21-05-19,07-38-39
+86,Fixture 2,OP-121,,,,,,86,,,Reset Speedo Gauge - F2,0.000,0.000,0.000,Pass,,21-05-19,07-38-39
+87,Fixture 2,OP-121,,,,,,87,,,Turn on Fuel input - F2,True,NA,,Pass,,21-05-19,07-38-39
+88,Fixture 2,OP-121,,,,,,88,,,Turn on Fuel 6 bar - F2,True,NA,,Pass,,21-05-19,07-38-39
+89,Fixture 2,OP-121,,,,,,89,,,Restart the Cluster - F2,False,NA,,Pass,,21-05-19,07-38-39
+90,Fixture 2,OP-121,,,,,,90,,,Delay-1s,NA,NA,,Done,,21-05-19,07-38-39
+91,Fixture 2,OP-121,,,,,,91,,,Capture Fuel 6 bar - F2,NA,NA,,Pass,,21-05-19,07-38-39
+92,Fixture 2,OP-121,,,,,,92,,,Turn off Fuel 6 bar - F2,False,NA,,Pass,,21-05-19,07-38-39
+93,Fixture 2,OP-121,,,,,,93,,,Turn on Fuel 3 bar - F2,True,NA,,Pass,,21-05-19,07-38-39
+94,Fixture 2,OP-121,,,,,,94,,,Restart the Cluster - F2,False,NA,,Pass,,21-05-19,07-38-39
+95,Fixture 2,OP-121,,,,,,95,,,Delay-1s,NA,NA,,Done,,21-05-19,07-38-39
+96,Fixture 2,OP-121,,,,,,96,,,Capture Fuel 3 bar - F2,NA,NA,,Pass,,21-05-19,07-38-39
+97,Fixture 2,OP-121,,,,,,97,,,Turn off Fuel 3 bar - F2,False,NA,,Pass,,21-05-19,07-38-39
+98,Fixture 2,OP-121,,,,,,98,,,Turn on Fuel 1 bar - F2,True,NA,,Pass,,21-05-19,07-38-39
+99,Fixture 2,OP-121,,,,,,99,,,Restart the Cluster - F2,False,NA,,Pass,,21-05-19,07-38-39
+100,Fixture 2,OP-121,,,,,,100,,,Delay-1s,NA,NA,,Done,,21-05-19,07-38-39
+101,Fixture 2,OP-121,,,,,,101,,,Capture Fuel 1 bar - F2,NA,NA,,Pass,,21-05-19,07-38-39
+102,Fixture 2,OP-121,,,,,,102,,,Turn off Fuel 1 bar - F2,False,NA,,Pass,,21-05-19,07-38-39
+103,Fixture 2,OP-121,,,,,,103,,,Fuel-Input OFF - F2,False,NA,,Pass,,21-05-19,07-38-39
+104,Fixture 2,OP-121,,,,,,104,,,Reset odometer - F2,C-A113,R-E113,E113,Pass,,21-05-19,07-38-39
+105,Fixture 2,OP-121,,,,,,105,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-38-39
+106,Fixture 2,OP-121,,,,,,106,,,Capture reset odometer - F2,NA,NA,,Pass,,21-05-19,07-38-39
+107,Fixture 2,OP-121,,,,,,107,,,Power off cluster - F2,False,NA,,Pass,,21-05-19,07-38-39
+108,Fixture 2,OP-121,,,,,,108,,,VISION TEST COMPLETED FIX 2,True,NA,,Pass,,21-05-19,07-38-39
+1,Fixture 1,OP-121,,,,,,1,,,Set Voltage 13v - F1,13.000,13.000,13.000,Pass,,21-05-19,07-38-57
+2,Fixture 1,OP-121,,,,,,2,,,Power on Cluster - F1,True,NA,,Pass,,21-05-19,07-38-57
+3,Fixture 1,OP-121,,,,,,3,,,Verify Current Measurement Status - F1,False,NA,,Pass,,21-05-19,07-38-57
+4,Fixture 1,OP-121,,,,,,4,,,Update Current Measurement Status - F1,True,NA,,Pass,,21-05-19,07-38-57
+5,Fixture 1,OP-121,,,,,,5,,,On Fixture 1 Current Status - F1,True,NA,,Pass,,21-05-19,07-38-57
+6,Fixture 1,OP-121,,,,,,6,,,Turn off Ignition - F1,False,NA,,Pass,,21-05-19,07-38-57
+7,Fixture 1,OP-121,,,,,,7,,,Delay-2s - F1,NA,NA,,Done,,21-05-19,07-38-57
+8,Fixture 1,OP-121,,,,,,8,,,Measure sleep mode current - F1,100.000,0.000,73.964,Pass,,21-05-19,07-38-57
+9,Fixture 1,OP-121,,,,,,9,,,Turn on Ignition - F1,True,NA,,Pass,,21-05-19,07-38-57
+10,Fixture 1,OP-121,,,,,,10,,,Measure Normal Mode Current - F1,400.000,0.000,145.597,Pass,,21-05-19,07-38-57
+11,Fixture 1,OP-121,,,,,,11,,,Turn on Illumination - F1,True,NA,,Pass,,21-05-19,07-38-57
+12,Fixture 1,OP-121,,,,,,12,,,Illumination ON (AC v)  - F1,True,NA,,Pass,,21-05-19,07-38-57
+13,Fixture 1,OP-121,,,,,,13,,, GND ON (0V) (AC v) - F1,True,NA,,Pass,,21-05-19,07-38-57
+14,Fixture 1,OP-121,,,,,,14,,,Delay-1s - F1,NA,NA,,Done,,21-05-19,07-38-57
+15,Fixture 1,OP-121,,,,,,15,,,Measure Full load current - F1,400.000,0.000,0.002,Pass,,21-05-19,07-38-57
+16,Fixture 1,OP-121,,,,,,16,,,Turn OFF Illumination - F1,False,NA,,Pass,,21-05-19,07-38-57
+17,Fixture 1,OP-121,,,,,,17,,,Illumination OFF (AC v) - F1,False,NA,,Pass,,21-05-19,07-38-57
+18,Fixture 1,OP-121,,,,,,18,,, GND OFF (0V) (AC v) - F1,False,NA,,Pass,,21-05-19,07-38-57
+19,Fixture 1,OP-121,,,,,,19,,,Off Fixture 1 Current Status - F1,False,NA,,Pass,,21-05-19,07-38-57
+20,Fixture 1,OP-121,,,,,,20,,,Turn on I3S-SW-out - F1,True,NA,,Pass,,21-05-19,07-38-57
+21,Fixture 1,OP-121,,,,,,21,,,Voltage Master ON - F1,True,NA,,Pass,,21-05-19,07-38-57
+22,Fixture 1,OP-121,,,,,,22,,,Voltage Measure ON - F1,True,NA,,Pass,,21-05-19,07-38-57
+23,Fixture 1,OP-121,,,,,,23,,,Press Step Pass Button to continue - F1,True,NA,,Pass,,21-05-19,07-38-57
+24,Fixture 1,OP-121,,,,,,24,,,Measure ON Voltage - F1,13.500,13.000,13.446,Pass,,21-05-19,07-38-57
+25,Fixture 1,OP-121,,,,,,25,,,Press Step Pass Button to continue - F1,True,NA,,Pass,,21-05-19,07-38-57
+26,Fixture 1,OP-121,,,,,,26,,,Measure OFF Voltage - F1,7.500,6.000,3.255,Fail,,21-05-19,07-38-57
+27,Fixture 1,OP-121,,,,,,27,,,Turn OFF I3S-SW-out - F1,False,NA,,Pass,,21-05-19,07-38-57
+28,Fixture 1,OP-121,,,,,,28,,,Voltage Master OFF F1,False,NA,,Pass,,21-05-19,07-38-57
+29,Fixture 1,OP-121,,,,,,29,,,Voltage Measure OFF F1,False,NA,,Pass,,21-05-19,07-38-57
+30,Fixture 1,OP-121,,,,,,30,,,Update Current Measurement Status - F1,False,NA,,Pass,,21-05-19,07-38-57
+31,Fixture 1,OP-121,,,,,,31,,,Turn on K-line - F1,True,NA,,Pass,,21-05-19,07-38-57
+32,Fixture 1,OP-121,,,,,,32,,,Delay-500ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+33,Fixture 1,OP-121,,,,,,33,,,Read Software Version - F1,C-0A8F,R-5A8F02012E07080419,7F,Fail,,21-05-19,07-38-57
+34,Fixture 1,OP-121,,,,,,34,,,Delay-500ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+35,Fixture 1,OP-121,,,,,,35,,,Read PCBA part number - F1,C-233000AE04,R-6387020100,6387020100,Pass,,21-05-19,07-38-57
+36,Fixture 1,OP-121,,,,,,36,,,Delay-500ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+37,Fixture 1,OP-121,,,,,,37,,,Read Cluster part number - F1,C-233000B804,R-6300878600,6300878600,Pass,,21-05-19,07-38-57
+38,Fixture 1,OP-121,,,,,,38,,,MESUREMENT TEST COMPLETED - F1,True,NA,,Pass,,21-05-19,07-38-57
+39,Fixture 1,OP-121,,,,,,39,,,Waiting to Rotate 180 degree - F1,True,NA,,Pass,,21-05-19,07-38-57
+40,Fixture 1,OP-121,,,,,,40,,,Delay-2s - F1,NA,NA,,Done,,21-05-19,07-38-57
+41,Fixture 1,OP-121,,,,,,41,,,Horizontal LCD Segments on - F1,C-A1119494949449494949494900,R-E1 ,E1,Pass,,21-05-19,07-38-57
+42,Fixture 1,OP-121,,,,,,42,,,Delay-500ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+43,Fixture 1,OP-121,,,,,,43,,,Capture Horizontal LCD Segment - F1,NA,NA,,Pass,,21-05-19,07-38-57
+44,Fixture 1,OP-121,,,,,,44,,,Vertical LCD Segment on - F1,C-A1116A6A6A6AB6B6B6B6B6A603,R-E1 ,E1,Pass,,21-05-19,07-38-57
+45,Fixture 1,OP-121,,,,,,45,,,Delay-500ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+46,Fixture 1,OP-121,,,,,,46,,,Capture Vertical LCD Segments on - F1,NA,NA,,Pass,,21-05-19,07-38-57
+47,Fixture 1,OP-121,,,,,,47,,,All LCD Segments on - F1,C-A111FFFFFFFFFFFFFFFFFFFFFF,R-E1 ,E1,Pass,,21-05-19,07-38-57
+48,Fixture 1,OP-121,,,,,,48,,,Delay-500ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+49,Fixture 1,OP-121,,,,,,49,,,Capture all LCD Segments on - F1,NA,NA,,Pass,,21-05-19,07-38-57
+50,Fixture 1,OP-121,,,,,,50,,,Delay-300ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+51,Fixture 1,OP-121,,,,,,51,,,Initialise LCD - F1,C-A1110000000000000000000000,R-E111,E111,Pass,,21-05-19,07-38-57
+52,Fixture 1,OP-121,,,,,,52,,,Turn Left TT on - F1,True,NA,,Pass,,21-05-19,07-38-57
+53,Fixture 1,OP-121,,,,,,53,,,Delay-500ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+54,Fixture 1,OP-121,,,,,,54,,,Capture Turn Left TT on - F1,NA,NA,,Pass,,21-05-19,07-38-57
+55,Fixture 1,OP-121,,,,,,55,,,Turn Left TT off - F1,False,NA,,Pass,,21-05-19,07-38-57
+56,Fixture 1,OP-121,,,,,,56,,,Turn right TT on - F1,True,NA,,Pass,,21-05-19,07-38-57
+57,Fixture 1,OP-121,,,,,,57,,,Delay-300ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+58,Fixture 1,OP-121,,,,,,58,,,Capture Turn right TT on - F1,NA,NA,,Pass,,21-05-19,07-38-57
+59,Fixture 1,OP-121,,,,,,59,,,Turn right TT off - F1,False,NA,,Pass,,21-05-19,07-38-57
+60,Fixture 1,OP-121,,,,,,60,,,Turn on Hardwired TT - F1,True,NA,,Pass,,21-05-19,07-38-57
+61,Fixture 1,OP-121,,,,,,61,,,Delay-300ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+62,Fixture 1,OP-121,,,,,,62,,,Capture Hardwired TT on - F1,NA,NA,,Pass,,21-05-19,07-38-57
+63,Fixture 1,OP-121,,,,,,63,,,Turn off hardwired TT - F1,False,NA,,Pass,,21-05-19,07-38-57
+64,Fixture 1,OP-121,,,,,,64,,,Delay-300ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+65,Fixture 1,OP-121,,,,,,65,,,Capture Hardwired TT off - F1,NA,NA,,Pass,,21-05-19,07-38-57
+66,Fixture 1,OP-121,,,,,,66,,,High Beam (AC v) ON - F1,True,NA,,Pass,,21-05-19,07-38-57
+67,Fixture 1,OP-121,,,,,,67,,,GND (0V) (AC v) ON - F1,True,NA,,Pass,,21-05-19,07-38-57
+68,Fixture 1,OP-121,,,,,,68,,,Delay-300ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+69,Fixture 1,OP-121,,,,,,69,,,Capture High Beam ON (AC) - F1,NA,NA,,Pass,,21-05-19,07-38-57
+70,Fixture 1,OP-121,,,,,,70,,,High Beam (AC v) OFF - F1,False,NA,,Pass,,21-05-19,07-38-57
+71,Fixture 1,OP-121,,,,,,71,,,GND (AC v) OFF - F1,False,NA,,Pass,,21-05-19,07-38-57
+72,Fixture 1,OP-121,,,,,,72,,,Illumination ON - F1,True,NA,,Pass,,21-05-19,07-38-57
+73,Fixture 1,OP-121,,,,,,73,,,Illumination ON (AC v) - F1,True,NA,,Pass,,21-05-19,07-38-57
+74,Fixture 1,OP-121,,,,,,74,,,GND ON (AC v) - F1,True,NA,,Pass,,21-05-19,07-38-57
+75,Fixture 1,OP-121,,,,,,75,,,Turn on Speed input - F1,True,NA,,Pass,,21-05-19,07-38-57
+76,Fixture 1,OP-121,,,,,,76,,,Speed 60 kmph - F1,866.000,866.000,866.000,Pass,,21-05-19,07-38-57
+77,Fixture 1,OP-121,,,,,,77,,,Delay-300ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+78,Fixture 1,OP-121,,,,,,78,,,Capture Speed 60kmph - F1,NA,NA,,Pass,,21-05-19,07-38-57
+79,Fixture 1,OP-121,,,,,,79,,,Speed 100 kmph - F1,1443.000,1443.000,1443.000,Pass,,21-05-19,07-38-57
+80,Fixture 1,OP-121,,,,,,80,,,Delay-300ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+81,Fixture 1,OP-121,,,,,,81,,,Capture Speed 100kmph - F1,NA,NA,,Pass,,21-05-19,07-38-57
+82,Fixture 1,OP-121,,,,,,82,,,Illumination OFF - F1,False,NA,,Pass,,21-05-19,07-38-57
+83,Fixture 1,OP-121,,,,,,83,,,Illumination OFF (AC v) - F1,False,NA,,Pass,,21-05-19,07-38-57
+84,Fixture 1,OP-121,,,,,,84,,,GND OFF (AC v) - F1,False,NA,,Pass,,21-05-19,07-38-57
+85,Fixture 1,OP-121,,,,,,85,,,Switch OFF Speedo Gauge - F1,0.000,0.000,0.000,Pass,,21-05-19,07-38-57
+86,Fixture 1,OP-121,,,,,,86,,,Turn off Speedo input - F1,False,NA,,Pass,,21-05-19,07-38-57
+87,Fixture 1,OP-121,,,,,,87,,,Turn on Fuel input - F1,True,NA,,Pass,,21-05-19,07-38-57
+88,Fixture 1,OP-121,,,,,,88,,,Turn on Fuel 6 bar - F1,True,NA,,Pass,,21-05-19,07-38-57
+89,Fixture 1,OP-121,,,,,,89,,,Restart the Cluster - F1,False,NA,,Pass,,21-05-19,07-38-57
+90,Fixture 1,OP-121,,,,,,90,,,Delay-1s - F1,NA,NA,,Done,,21-05-19,07-38-57
+91,Fixture 1,OP-121,,,,,,91,,,Capture Fuel 6 bar - F1,NA,NA,,Pass,,21-05-19,07-38-57
+92,Fixture 1,OP-121,,,,,,92,,,Turn off Fuel 6 bar - F1,False,NA,,Pass,,21-05-19,07-38-57
+93,Fixture 1,OP-121,,,,,,93,,,Turn on Fuel 3 bar - F1,True,NA,,Pass,,21-05-19,07-38-57
+94,Fixture 1,OP-121,,,,,,94,,,Restart the Cluster - F1,False,NA,,Pass,,21-05-19,07-38-57
+95,Fixture 1,OP-121,,,,,,95,,,Delay-1s - F1,NA,NA,,Done,,21-05-19,07-38-57
+96,Fixture 1,OP-121,,,,,,96,,,Capture Fuel 3 bar - F1,NA,NA,,Pass,,21-05-19,07-38-57
+97,Fixture 1,OP-121,,,,,,97,,,Turn off Fuel 3 bar - F1,False,NA,,Pass,,21-05-19,07-38-57
+98,Fixture 1,OP-121,,,,,,98,,,Turn on Fuel 1 bar - F1,True,NA,,Pass,,21-05-19,07-38-57
+99,Fixture 1,OP-121,,,,,,99,,,Restart the Cluster - F1,False,NA,,Pass,,21-05-19,07-38-57
+100,Fixture 1,OP-121,,,,,,100,,,Delay-1s - F1,NA,NA,,Done,,21-05-19,07-38-57
+101,Fixture 1,OP-121,,,,,,101,,,Capture Fuel 1 bar - F1,NA,NA,,Pass,,21-05-19,07-38-57
+102,Fixture 1,OP-121,,,,,,102,,,Turn off Fuel 1 bar - F1,False,NA,,Pass,,21-05-19,07-38-57
+103,Fixture 1,OP-121,,,,,,103,,,Fuel-Input OFF Fix1 - F1,False,NA,,Pass,,21-05-19,07-38-57
+104,Fixture 1,OP-121,,,,,,104,,,Reset odometer - F1,C-A113,R-E113,E113,Pass,,21-05-19,07-38-57
+105,Fixture 1,OP-121,,,,,,105,,,Delay-300ms - F1,NA,NA,,Done,,21-05-19,07-38-57
+106,Fixture 1,OP-121,,,,,,106,,,Capture reset odometer - F1,NA,NA,,Pass,,21-05-19,07-38-57
+107,Fixture 1,OP-121,,,,,,107,,,Power off cluster - F1,False,NA,,Pass,,21-05-19,07-38-57
+108,Fixture 1,OP-121,,,,,,108,,,VISION TEST COMPLETED - F1,True,NA,,Pass,,21-05-19,07-38-57
+1,Fixture 3,OP-121,,,,,,1,,,Set Voltage 13v - F3,13.000,13.000,13.000,Pass,,21-05-19,07-40-01
+2,Fixture 3,OP-121,,,,,,2,,,Power on Cluster - F3,True,NA,,Pass,,21-05-19,07-40-01
+3,Fixture 3,OP-121,,,,,,3,,,Verify Current Measurement Status - F3,False,NA,,Pass,,21-05-19,07-40-01
+4,Fixture 3,OP-121,,,,,,4,,,Update Current Measurement Status - F3,True,NA,,Pass,,21-05-19,07-40-01
+5,Fixture 3,OP-121,,,,,,5,,,On Fixture 3 Current Master Status - F3,True,NA,,Pass,,21-05-19,07-40-01
+6,Fixture 3,OP-121,,,,,,6,,,On Fixture 3 Current Status - F3,True,NA,,Pass,,21-05-19,07-40-01
+7,Fixture 3,OP-121,,,,,,7,,,Turn off Ignition - F3,False,NA,,Pass,,21-05-19,07-40-01
+8,Fixture 3,OP-121,,,,,,8,,,Delay-2s,NA,NA,,Done,,21-05-19,07-40-01
+9,Fixture 3,OP-121,,,,,,9,,,Measure sleep mode current - F3,100.000,0.000,0.043,Pass,,21-05-19,07-40-01
+10,Fixture 3,OP-121,,,,,,10,,,Turn on Ignition - F3,True,NA,,Pass,,21-05-19,07-40-01
+11,Fixture 3,OP-121,,,,,,11,,,Measure Normal Mode Current - F3,400.000,0.000,69.774,Pass,,21-05-19,07-40-01
+12,Fixture 3,OP-121,,,,,,12,,,Illumination ON - F3,True,NA,,Pass,,21-05-19,07-40-01
+13,Fixture 3,OP-121,,,,,,13,,,Illumination ON (AC v) - F3,True,NA,,Pass,,21-05-19,07-40-01
+14,Fixture 3,OP-121,,,,,,14,,,GND ON (0V) (AC v) - F3,True,NA,,Pass,,21-05-19,07-40-01
+15,Fixture 3,OP-121,,,,,,15,,,Delay-1s,NA,NA,,Done,,21-05-19,07-40-01
+16,Fixture 3,OP-121,,,,,,16,,,Measure Full load current - F3,400.000,0.000,74.188,Pass,,21-05-19,07-40-01
+17,Fixture 3,OP-121,,,,,,17,,,Illumination OFF - F3,False,NA,,Pass,,21-05-19,07-40-01
+18,Fixture 3,OP-121,,,,,,18,,,Illumination OFF (AC v) - F3,False,NA,,Pass,,21-05-19,07-40-01
+19,Fixture 3,OP-121,,,,,,19,,,GND OFF (0V) (AC v) - F3,False,NA,,Pass,,21-05-19,07-40-01
+20,Fixture 3,OP-121,,,,,,20,,,Off Fixture 3 Current Master Status - F3,False,NA,,Pass,,21-05-19,07-40-01
+21,Fixture 3,OP-121,,,,,,21,,,Off Fixture 3 Current Status - F3,False,NA,,Pass,,21-05-19,07-40-01
+22,Fixture 3,OP-121,,,,,,22,,,Turn ON I3s-SW-out - F3,True,NA,,Pass,,21-05-19,07-40-01
+23,Fixture 3,OP-121,,,,,,23,,,Voltage Master ON F3,True,NA,,Pass,,21-05-19,07-40-01
+24,Fixture 3,OP-121,,,,,,24,,,Voltage Measure ON F3,True,NA,,Pass,,21-05-19,07-40-01
+25,Fixture 3,OP-121,,,,,,25,,,Voltage 3 & 4 Master ON F3,True,NA,,Pass,,21-05-19,07-40-01
+26,Fixture 3,OP-121,,,,,,26,,,Press Step Pass Button to continue - F3,True,NA,,Pass,,21-05-19,07-40-01
+27,Fixture 3,OP-121,,,,,,27,,,Measure ON Voltage F3,13.500,13.000,13.450,Pass,,21-05-19,07-40-01
+28,Fixture 3,OP-121,,,,,,28,,,Press Step Pass Button to continue - F3,True,NA,,Pass,,21-05-19,07-40-01
+29,Fixture 3,OP-121,,,,,,29,,,Measure OFF Voltage F3,7.500,6.000,7.037,Pass,,21-05-19,07-40-01
+30,Fixture 3,OP-121,,,,,,30,,,Turn OFF I3s-SW-out - F3,False,NA,,Pass,,21-05-19,07-40-01
+31,Fixture 3,OP-121,,,,,,31,,,Voltage 3 & 4 Master OFF F3,False,NA,,Pass,,21-05-19,07-40-01
+32,Fixture 3,OP-121,,,,,,32,,,Voltage Master OFF F3,False,NA,,Pass,,21-05-19,07-40-01
+33,Fixture 3,OP-121,,,,,,33,,,Voltage Measure OFF F3,False,NA,,Pass,,21-05-19,07-40-01
+34,Fixture 3,OP-121,,,,,,34,,,Update Current Measurement Status - F3,False,NA,,Pass,,21-05-19,07-40-01
+35,Fixture 3,OP-121,,,,,,35,,,Turn on K-line - F3,True,NA,,Pass,,21-05-19,07-40-01
+36,Fixture 3,OP-121,,,,,,36,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-01
+37,Fixture 3,OP-121,,,,,,37,,,Read Software Version - F3,C-1A8F,R-5A8F02012E07080419,5A8F02012E07080419,Pass,,21-05-19,07-40-01
+38,Fixture 3,OP-121,,,,,,38,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-01
+39,Fixture 3,OP-121,,,,,,39,,,Read PCBA part number - F3,C-233000AE04,R-6387020100,6387020100,Pass,,21-05-19,07-40-01
+40,Fixture 3,OP-121,,,,,,40,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-01
+41,Fixture 3,OP-121,,,,,,41,,,Read Cluster part number - F3,C-233000B804,R-6300878600,6300878600,Pass,,21-05-19,07-40-01
+42,Fixture 3,OP-121,,,,,,42,,,MEASUREMENT TEST COMPLETED FIX 3 ,True,NA,,Pass,,21-05-19,07-40-01
+43,Fixture 3,OP-121,,,,,,43,,,Waiting to turn 0 or 360 - F3,True,NA,,Pass,,21-05-19,07-40-01
+44,Fixture 3,OP-121,,,,,,44,,,Delay-2s,NA,NA,,Done,,21-05-19,07-40-01
+45,Fixture 3,OP-121,,,,,,45,,,Horizontal LCD Segments on - F3,C-A1119494949449494949494900,R-E1 ,E1,Pass,,21-05-19,07-40-01
+46,Fixture 3,OP-121,,,,,,46,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-01
+47,Fixture 3,OP-121,,,,,,47,,,Capture Horizontal LCD Segment - F3,NA,NA,,Pass,,21-05-19,07-40-01
+48,Fixture 3,OP-121,,,,,,48,,,Vertical LCD Segment on - F3,C-A1116A6A6A6AB6B6B6B6B6A603,R-E1 ,E1,Pass,,21-05-19,07-40-01
+49,Fixture 3,OP-121,,,,,,49,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-01
+50,Fixture 3,OP-121,,,,,,50,,,Capture Vertical LCD Segments on - F3,NA,NA,,Pass,,21-05-19,07-40-01
+51,Fixture 3,OP-121,,,,,,51,,,All LCD Segments on - F3,C-A111FFFFFFFFFFFFFFFFFFFFFF,R-E1 ,E1,Pass,,21-05-19,07-40-01
+52,Fixture 3,OP-121,,,,,,52,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-01
+53,Fixture 3,OP-121,,,,,,53,,,Capture all LCD Segments on - F3,NA,NA,,Pass,,21-05-19,07-40-01
+54,Fixture 3,OP-121,,,,,,54,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-01
+55,Fixture 3,OP-121,,,,,,55,,,Initialise LCD  - F3,C-A1110000000000000000000000,R-E111,E111,Pass,,21-05-19,07-40-01
+56,Fixture 3,OP-121,,,,,,56,,,Turn Left TT on - F3,True,NA,,Pass,,21-05-19,07-40-01
+57,Fixture 3,OP-121,,,,,,57,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-01
+58,Fixture 3,OP-121,,,,,,58,,,Capture Turn Left TT on - F3,NA,NA,,Pass,,21-05-19,07-40-01
+59,Fixture 3,OP-121,,,,,,59,,,Turn Left TT off - F3,False,NA,,Pass,,21-05-19,07-40-01
+60,Fixture 3,OP-121,,,,,,60,,,Turn right TT on - F3,True,NA,,Pass,,21-05-19,07-40-01
+61,Fixture 3,OP-121,,,,,,61,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-01
+62,Fixture 3,OP-121,,,,,,62,,,Capture Turn right TT on - F3,NA,NA,,Pass,,21-05-19,07-40-01
+63,Fixture 3,OP-121,,,,,,63,,,Turn right TT off - F3,False,NA,,Pass,,21-05-19,07-40-01
+64,Fixture 3,OP-121,,,,,,64,,,Turn on Hardwired TT - F3,True,NA,,Pass,,21-05-19,07-40-01
+65,Fixture 3,OP-121,,,,,,65,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-01
+66,Fixture 3,OP-121,,,,,,66,,,Capture Hardwired TT on - F3,NA,NA,,Pass,,21-05-19,07-40-01
+67,Fixture 3,OP-121,,,,,,67,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-01
+68,Fixture 3,OP-121,,,,,,68,,,Turn off hardwired TT - F3,False,NA,,Pass,,21-05-19,07-40-01
+69,Fixture 3,OP-121,,,,,,69,,,Capture Hardwired TT off - F3,NA,NA,,Pass,,21-05-19,07-40-01
+70,Fixture 3,OP-121,,,,,,70,,,High Beam ON (AC) - F3,True,NA,,Pass,,21-05-19,07-40-01
+71,Fixture 3,OP-121,,,,,,71,,,GND ON (AC) - F3,True,NA,,Pass,,21-05-19,07-40-01
+72,Fixture 3,OP-121,,,,,,72,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-01
+73,Fixture 3,OP-121,,,,,,73,,,Capture High Beam on - F3,NA,NA,,Pass,,21-05-19,07-40-01
+74,Fixture 3,OP-121,,,,,,74,,,High Beam OFF (AC) - F3,False,NA,,Pass,,21-05-19,07-40-01
+75,Fixture 3,OP-121,,,,,,75,,,GND OFF (AC) - F3,False,NA,,Pass,,21-05-19,07-40-01
+76,Fixture 3,OP-121,,,,,,76,,,Illumination ON - F3,True,NA,,Pass,,21-05-19,07-40-01
+77,Fixture 3,OP-121,,,,,,77,,,Illumination ON (AC) - F3,True,NA,,Pass,,21-05-19,07-40-01
+78,Fixture 3,OP-121,,,,,,78,,,GND ON (AC) - F3,True,NA,,Pass,,21-05-19,07-40-01
+79,Fixture 3,OP-121,,,,,,79,,,Turn on Speed input - F3,True,NA,,Pass,,21-05-19,07-40-01
+80,Fixture 3,OP-121,,,,,,80,,,Speed 60 kmph - F3,866.000,866.000,866.000,Pass,,21-05-19,07-40-01
+81,Fixture 3,OP-121,,,,,,81,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-01
+82,Fixture 3,OP-121,,,,,,82,,,Capture Speed 60kmph - F3,NA,NA,,Pass,,21-05-19,07-40-01
+83,Fixture 3,OP-121,,,,,,83,,,Speed 100 kmph - F3,1443.000,1443.000,1443.000,Pass,,21-05-19,07-40-01
+84,Fixture 3,OP-121,,,,,,84,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-01
+85,Fixture 3,OP-121,,,,,,85,,,Capture Speed 100kmph - F3,NA,NA,,Pass,,21-05-19,07-40-01
+86,Fixture 3,OP-121,,,,,,86,,,Reset Speedo Gauge - F3,0.000,0.000,0.000,Pass,,21-05-19,07-40-01
+87,Fixture 3,OP-121,,,,,,87,,,Turn off Speedo input - F3,False,NA,,Pass,,21-05-19,07-40-01
+88,Fixture 3,OP-121,,,,,,88,,,Turn OFF Illumination - F3,True,NA,,Pass,,21-05-19,07-40-01
+89,Fixture 3,OP-121,,,,,,89,,,Illumination OFF (AC v) - F3,False,NA,,Pass,,21-05-19,07-40-01
+90,Fixture 3,OP-121,,,,,,90,,,GND OFF (AC v) - F3,False,NA,,Pass,,21-05-19,07-40-01
+91,Fixture 3,OP-121,,,,,,91,,,Turn on Fuel input - F3,True,NA,,Pass,,21-05-19,07-40-01
+92,Fixture 3,OP-121,,,,,,92,,,Turn on Fuel 6 bar - F3,True,NA,,Pass,,21-05-19,07-40-01
+93,Fixture 3,OP-121,,,,,,93,,,Restart the Cluster - F3,False,NA,,Pass,,21-05-19,07-40-01
+94,Fixture 3,OP-121,,,,,,94,,,Delay-1s,NA,NA,,Done,,21-05-19,07-40-01
+95,Fixture 3,OP-121,,,,,,95,,,Capture Fuel 6 bar - F3,NA,NA,,Pass,,21-05-19,07-40-01
+96,Fixture 3,OP-121,,,,,,96,,,Turn off Fuel 6 bar - F3,False,NA,,Pass,,21-05-19,07-40-01
+97,Fixture 3,OP-121,,,,,,97,,,Turn on Fuel 3 bar - F3,True,NA,,Pass,,21-05-19,07-40-01
+98,Fixture 3,OP-121,,,,,,98,,,Restart the Cluster - F3,False,NA,,Pass,,21-05-19,07-40-01
+99,Fixture 3,OP-121,,,,,,99,,,Delay-1s,NA,NA,,Done,,21-05-19,07-40-01
+100,Fixture 3,OP-121,,,,,,100,,,Capture Fuel 3 bar - F3,NA,NA,,Pass,,21-05-19,07-40-01
+101,Fixture 3,OP-121,,,,,,101,,,Turn off Fuel 3 bar - F3,False,NA,,Pass,,21-05-19,07-40-01
+102,Fixture 3,OP-121,,,,,,102,,,Turn on Fuel 1 bar - F3,True,NA,,Pass,,21-05-19,07-40-01
+103,Fixture 3,OP-121,,,,,,103,,,Restart the Cluster - F3,False,NA,,Pass,,21-05-19,07-40-01
+104,Fixture 3,OP-121,,,,,,104,,,Delay-1s,NA,NA,,Done,,21-05-19,07-40-01
+105,Fixture 3,OP-121,,,,,,105,,,Capture Fuel 1 bar - F3,NA,NA,,Pass,,21-05-19,07-40-01
+106,Fixture 3,OP-121,,,,,,106,,,Turn off Fuel 1 bar - F3,False,NA,,Pass,,21-05-19,07-40-01
+107,Fixture 3,OP-121,,,,,,107,,,Fuel-Input OFF - F3,False,NA,,Pass,,21-05-19,07-40-01
+108,Fixture 3,OP-121,,,,,,108,,,Reset odometer - F3,C-A113,R-E113,E113,Pass,,21-05-19,07-40-01
+109,Fixture 3,OP-121,,,,,,109,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-01
+110,Fixture 3,OP-121,,,,,,110,,,Capture reset odometer - F3,NA,NA,,Pass,,21-05-19,07-40-01
+111,Fixture 3,OP-121,,,,,,111,,,Power off cluster - F3,False,NA,,Pass,,21-05-19,07-40-01
+112,Fixture 3,OP-121,,,,,,112,,,VISION TEST COMPLETED FIX 3,True,NA,,Pass,,21-05-19,07-40-01
+1,Fixture 4,OP-121,,,,,,1,,,Set Voltage 13V - F4,13.000,13.000,13.000,Pass,,21-05-19,07-40-04
+2,Fixture 4,OP-121,,,,,,2,,,Power on Cluster - F4,True,NA,,Pass,,21-05-19,07-40-04
+3,Fixture 4,OP-121,,,,,,3,,,Verify Current Measurement Status - F4,False,NA,,Pass,,21-05-19,07-40-04
+4,Fixture 4,OP-121,,,,,,4,,,Update Current Measurement Status - F4,True,NA,,Pass,,21-05-19,07-40-04
+5,Fixture 4,OP-121,,,,,,5,,,On Fixture 4 Master Current Status - F4,True,NA,,Pass,,21-05-19,07-40-04
+6,Fixture 4,OP-121,,,,,,6,,,On Fixture 4 Current Status - F4,True,NA,,Pass,,21-05-19,07-40-04
+7,Fixture 4,OP-121,,,,,,7,,,Turn off Ignition - F4,False,NA,,Pass,,21-05-19,07-40-04
+8,Fixture 4,OP-121,,,,,,8,,,Measure sleep mode current - F4,100.000,0.000,39.356,Pass,,21-05-19,07-40-04
+9,Fixture 4,OP-121,,,,,,9,,,Turn on Ignition - F4,True,NA,,Pass,,21-05-19,07-40-04
+10,Fixture 4,OP-121,,,,,,10,,,Measure Normal Mode Current - F4,400.000,0.000,71.252,Pass,,21-05-19,07-40-04
+11,Fixture 4,OP-121,,,,,,11,,,Turn on Illumination - F4,True,NA,,Pass,,21-05-19,07-40-04
+12,Fixture 4,OP-121,,,,,,12,,,Illumination ON (AC V) - F4,True,NA,,Pass,,21-05-19,07-40-04
+13,Fixture 4,OP-121,,,,,,13,,,GND ON (AC V) - F4,True,NA,,Pass,,21-05-19,07-40-04
+14,Fixture 4,OP-121,,,,,,14,,,Delay-1s,NA,NA,,Done,,21-05-19,07-40-04
+15,Fixture 4,OP-121,,,,,,15,,,Measure Full load current - F4,400.000,0.000,73.371,Pass,,21-05-19,07-40-04
+16,Fixture 4,OP-121,,,,,,16,,,Turn OFF Illumination - F4,False,NA,,Pass,,21-05-19,07-40-04
+17,Fixture 4,OP-121,,,,,,17,,,Illumination OFF (AC v) - F4,False,NA,,Pass,,21-05-19,07-40-04
+18,Fixture 4,OP-121,,,,,,18,,,GND OFF (0V) (AC V) - F4,False,NA,,Pass,,21-05-19,07-40-04
+19,Fixture 4,OP-121,,,,,,19,,,Off Fixture 4 Master Current Status - F4,False,NA,,Pass,,21-05-19,07-40-04
+20,Fixture 4,OP-121,,,,,,20,,,Off Fixture 4 Current Status - F4,False,NA,,Pass,,21-05-19,07-40-04
+21,Fixture 4,OP-121,,,,,,21,,,Turn ON I3s-SW-out - F4,True,NA,,Pass,,21-05-19,07-40-04
+22,Fixture 4,OP-121,,,,,,22,,,Voltage Master ON F4,True,NA,,Pass,,21-05-19,07-40-04
+23,Fixture 4,OP-121,,,,,,23,,,Voltage Measure ON F4,True,NA,,Pass,,21-05-19,07-40-04
+24,Fixture 4,OP-121,,,,,,24,,,Voltage 3 & 4 Master ON F4,True,NA,,Pass,,21-05-19,07-40-04
+25,Fixture 4,OP-121,,,,,,25,,,Press Step Pass Button to continue - F4,True,NA,,Pass,,21-05-19,07-40-04
+26,Fixture 4,OP-121,,,,,,26,,,Measure ON Voltage F4,13.500,13.000,13.453,Pass,,21-05-19,07-40-04
+27,Fixture 4,OP-121,,,,,,27,,,Press Step Pass Button to continue - F4,True,NA,,Pass,,21-05-19,07-40-04
+28,Fixture 4,OP-121,,,,,,28,,,Measure OFF Voltage F4,7.500,6.000,7.039,Pass,,21-05-19,07-40-04
+29,Fixture 4,OP-121,,,,,,29,,,Turn OFF I3s-SW-out Fix4,False,NA,,Pass,,21-05-19,07-40-04
+30,Fixture 4,OP-121,,,,,,30,,,Voltage 3 & 4 Master OFF F4,False,NA,,Pass,,21-05-19,07-40-04
+31,Fixture 4,OP-121,,,,,,31,,,Voltage Master OFF F4,False,NA,,Pass,,21-05-19,07-40-04
+32,Fixture 4,OP-121,,,,,,32,,,Voltage Measure OFF F4,False,NA,,Pass,,21-05-19,07-40-04
+33,Fixture 4,OP-121,,,,,,33,,,Update Current Measurement Status - F4,False,NA,,Pass,,21-05-19,07-40-04
+34,Fixture 4,OP-121,,,,,,34,,,Turn on K-line - F4,True,NA,,Pass,,21-05-19,07-40-04
+35,Fixture 4,OP-121,,,,,,35,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-04
+36,Fixture 4,OP-121,,,,,,36,,,Read Software Version - F4,C-1A8F,R-5A8F02012E07080419,5A8F02012E07080419,Pass,,21-05-19,07-40-04
+37,Fixture 4,OP-121,,,,,,37,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-04
+38,Fixture 4,OP-121,,,,,,38,,,Read PCBA part number - F4,C-233000AE04,R-6387020100,6387020100,Pass,,21-05-19,07-40-04
+39,Fixture 4,OP-121,,,,,,39,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-04
+40,Fixture 4,OP-121,,,,,,40,,,Read Cluster part number - F4,C-233000B804,R-6300878600,6300878600,Pass,,21-05-19,07-40-04
+41,Fixture 4,OP-121,,,,,,41,,,MEASUREMENT TEST COMPLETED - F4,True,NA,,Pass,,21-05-19,07-40-04
+42,Fixture 4,OP-121,,,,,,42,,,Waiting to turn 0 or 360 - F4,True,NA,,Pass,,21-05-19,07-40-04
+43,Fixture 4,OP-121,,,,,,43,,,Delay-2s,NA,NA,,Done,,21-05-19,07-40-04
+44,Fixture 4,OP-121,,,,,,44,,,Horizontal LCD Segments on - F4,C-A1119494949449494949494900,R-E1 ,E1,Pass,,21-05-19,07-40-04
+45,Fixture 4,OP-121,,,,,,45,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-04
+46,Fixture 4,OP-121,,,,,,46,,,Capture Horizontal LCD Segment - F4,NA,NA,,Pass,,21-05-19,07-40-04
+47,Fixture 4,OP-121,,,,,,47,,,Vertical LCD Segment on - F4,C-A1116A6A6A6AB6B6B6B6B6A603,R-E1 ,E1,Pass,,21-05-19,07-40-04
+48,Fixture 4,OP-121,,,,,,48,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-04
+49,Fixture 4,OP-121,,,,,,49,,,Capture Vertical LCD Segments on - F4,NA,NA,,Pass,,21-05-19,07-40-04
+50,Fixture 4,OP-121,,,,,,50,,,All LCD Segments on - F4,C-A111FFFFFFFFFFFFFFFFFFFFFF,R-E1 ,E1,Pass,,21-05-19,07-40-04
+51,Fixture 4,OP-121,,,,,,51,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-04
+52,Fixture 4,OP-121,,,,,,52,,,Capture all LCD Segments on - F4,NA,NA,,Pass,,21-05-19,07-40-04
+53,Fixture 4,OP-121,,,,,,53,,,Delay-500ms,NA,NA,,Done,,21-05-19,07-40-04
+54,Fixture 4,OP-121,,,,,,54,,,Initialise LCD - F4,C-A1110000000000000000000000,R-E111,E111,Pass,,21-05-19,07-40-04
+55,Fixture 4,OP-121,,,,,,55,,,Turn Left TT on - F4,True,NA,,Pass,,21-05-19,07-40-04
+56,Fixture 4,OP-121,,,,,,56,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-04
+57,Fixture 4,OP-121,,,,,,57,,,Capture Turn Left TT on - F4,NA,NA,,Pass,,21-05-19,07-40-04
+58,Fixture 4,OP-121,,,,,,58,,,Turn Left TT off - F4,False,NA,,Pass,,21-05-19,07-40-04
+59,Fixture 4,OP-121,,,,,,59,,,Turn right TT on - F4,True,NA,,Pass,,21-05-19,07-40-04
+60,Fixture 4,OP-121,,,,,,60,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-04
+61,Fixture 4,OP-121,,,,,,61,,,Capture Turn right TT on - F4,NA,NA,,Pass,,21-05-19,07-40-04
+62,Fixture 4,OP-121,,,,,,62,,,Turn right TT off - F4,False,NA,,Pass,,21-05-19,07-40-04
+63,Fixture 4,OP-121,,,,,,63,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-04
+64,Fixture 4,OP-121,,,,,,64,,,Turn on Hardwired TT - F4,True,NA,,Pass,,21-05-19,07-40-04
+65,Fixture 4,OP-121,,,,,,65,,,Capture Hardwired TT on - F4,NA,NA,,Pass,,21-05-19,07-40-04
+66,Fixture 4,OP-121,,,,,,66,,,Turn off hardwired TT - F4,False,NA,,Pass,,21-05-19,07-40-04
+67,Fixture 4,OP-121,,,,,,67,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-04
+68,Fixture 4,OP-121,,,,,,68,,,Capture Hardwired TT off - F4,NA,NA,,Pass,,21-05-19,07-40-04
+69,Fixture 4,OP-121,,,,,,69,,,Turn ON High Beam (AC V) - F4,True,NA,,Pass,,21-05-19,07-40-04
+70,Fixture 4,OP-121,,,,,,70,,,GND ON (0V) (AC V) - F4,True,NA,,Pass,,21-05-19,07-40-04
+71,Fixture 4,OP-121,,,,,,71,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-04
+72,Fixture 4,OP-121,,,,,,72,,,Capture High Beam ON - F4,NA,NA,,Pass,,21-05-19,07-40-04
+73,Fixture 4,OP-121,,,,,,73,,,Turn OFF High Beam (AC V) - F4,False,NA,,Pass,,21-05-19,07-40-04
+74,Fixture 4,OP-121,,,,,,74,,,GND OFF (0V) (AC V) - F4,False,NA,,Pass,,21-05-19,07-40-04
+75,Fixture 4,OP-121,,,,,,75,,,Illumination ON - F4,True,NA,,Pass,,21-05-19,07-40-04
+76,Fixture 4,OP-121,,,,,,76,,,Illumination ON (AC V) - F4,True,NA,,Pass,,21-05-19,07-40-04
+77,Fixture 4,OP-121,,,,,,77,,,GND ON (AC V) - F4,True,NA,,Pass,,21-05-19,07-40-04
+78,Fixture 4,OP-121,,,,,,78,,,Turn on Speed input - F4,True,NA,,Pass,,21-05-19,07-40-04
+79,Fixture 4,OP-121,,,,,,79,,,Speed 60 kmph - F4,866.000,866.000,866.000,Pass,,21-05-19,07-40-04
+80,Fixture 4,OP-121,,,,,,80,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-04
+81,Fixture 4,OP-121,,,,,,81,,,Capture Speed 60kmph - F4,NA,NA,,Pass,,21-05-19,07-40-04
+82,Fixture 4,OP-121,,,,,,82,,,Speed 100 kmph - F4,1443.000,1443.000,1443.000,Pass,,21-05-19,07-40-04
+83,Fixture 4,OP-121,,,,,,83,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-04
+84,Fixture 4,OP-121,,,,,,84,,,Capture Speed 100kmph - F4,NA,NA,,Pass,,21-05-19,07-40-04
+85,Fixture 4,OP-121,,,,,,85,,,Reset Speedo Gauge - F4,0.000,0.000,0.000,Pass,,21-05-19,07-40-04
+86,Fixture 4,OP-121,,,,,,86,,,Turn off Speedo input - F4,False,NA,,Pass,,21-05-19,07-40-04
+87,Fixture 4,OP-121,,,,,,87,,,Illumination OFF - F4,False,NA,,Pass,,21-05-19,07-40-04
+88,Fixture 4,OP-121,,,,,,88,,,Illumination OFF (AC V) - F4,False,NA,,Pass,,21-05-19,07-40-04
+89,Fixture 4,OP-121,,,,,,89,,,GND OFF (AC V) - F4,False,NA,,Pass,,21-05-19,07-40-04
+90,Fixture 4,OP-121,,,,,,90,,,Turn on Fuel input - F4,True,NA,,Pass,,21-05-19,07-40-04
+91,Fixture 4,OP-121,,,,,,91,,,Turn on Fuel 6 bar - F4,True,NA,,Pass,,21-05-19,07-40-04
+92,Fixture 4,OP-121,,,,,,92,,,Restart the Cluster - F4,False,NA,,Pass,,21-05-19,07-40-04
+93,Fixture 4,OP-121,,,,,,93,,,Delay-1s,NA,NA,,Done,,21-05-19,07-40-04
+94,Fixture 4,OP-121,,,,,,94,,,Capture Fuel 6 bar - F4,NA,NA,,Pass,,21-05-19,07-40-04
+95,Fixture 4,OP-121,,,,,,95,,,Turn off Fuel 6 bar - F4,False,NA,,Pass,,21-05-19,07-40-04
+96,Fixture 4,OP-121,,,,,,96,,,Turn on Fuel 3 bar - F4,True,NA,,Pass,,21-05-19,07-40-04
+97,Fixture 4,OP-121,,,,,,97,,,Restart the Cluster - F4,False,NA,,Pass,,21-05-19,07-40-04
+98,Fixture 4,OP-121,,,,,,98,,,Delay-1s,NA,NA,,Done,,21-05-19,07-40-04
+99,Fixture 4,OP-121,,,,,,99,,,Capture Fuel 3 bar - F4,NA,NA,,Pass,,21-05-19,07-40-04
+100,Fixture 4,OP-121,,,,,,100,,,Turn off Fuel 3 bar - F4,False,NA,,Pass,,21-05-19,07-40-04
+101,Fixture 4,OP-121,,,,,,101,,,Turn on Fuel 1 bar - F4,True,NA,,Pass,,21-05-19,07-40-04
+102,Fixture 4,OP-121,,,,,,102,,,Restart the Cluster - F4,False,NA,,Pass,,21-05-19,07-40-04
+103,Fixture 4,OP-121,,,,,,103,,,Delay-1s,NA,NA,,Done,,21-05-19,07-40-04
+104,Fixture 4,OP-121,,,,,,104,,,Capture Fuel 1 bar - F4,NA,NA,,Pass,,21-05-19,07-40-04
+105,Fixture 4,OP-121,,,,,,105,,,Turn off Fuel 1 bar - F4,False,NA,,Pass,,21-05-19,07-40-04
+106,Fixture 4,OP-121,,,,,,106,,,Fuel-Input OFF - F4,False,NA,,Pass,,21-05-19,07-40-04
+107,Fixture 4,OP-121,,,,,,107,,,Reset odometer - F4,C-A113,R-E113,E113,Pass,,21-05-19,07-40-04
+108,Fixture 4,OP-121,,,,,,108,,,Delay-300ms,NA,NA,,Done,,21-05-19,07-40-04
+109,Fixture 4,OP-121,,,,,,109,,,Capture reset odometer - F4,NA,NA,,Pass,,21-05-19,07-40-04
+110,Fixture 4,OP-121,,,,,,110,,,Power off cluster - F4,False,NA,,Pass,,21-05-19,07-40-04
+111,Fixture 4,OP-121,,,,,,111,,,VISION TEST COMPLETED FIX 4,True,NA,,Pass,,21-05-19,07-40-04
